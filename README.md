@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![JEST](https://img.shields.io/badge/JEST-9C4860?style=for-the-badge&logo=jest&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-979797?style=for-the-badge&logo=json&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 <br>
