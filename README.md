@@ -1,4 +1,3 @@
-
 <!--
 **francoparavan/francoparavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -54,3 +53,4 @@ Here are some ideas to get you started:
 
 ## :mailbox: Get in touch
 <a href="https://www.google.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.google.com"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
