@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoparavan&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoparavan&layout=compact&theme=dark&hide_border=true)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## :mailbox: Get in touch
 <a href="https://www.google.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
