@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, welcome to my github profile</h2>
+
 <br>
 
 ## :robot: Languages-Frameworks-Tools
@@ -31,11 +32,13 @@ Here are some ideas to get you started:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JEST](https://img.shields.io/badge/JEST-9C4860?style=for-the-badge&logo=jest&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-979797?style=for-the-badge&logo=json&logoColor=white)
-<br>
+
+<br><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoparavan&layout=compact&theme=dark&hide_border=true)&nbsp;&nbsp;&nbsp;&nbsp;
-<br>
+
+<br><br>
 
 ## :mailbox: Get in touch
 <a href="https://www.google.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
