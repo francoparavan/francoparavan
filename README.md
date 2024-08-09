@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, welcome to my github profile</h1>
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, welcome to my github profile</h2>
 
-<br>
+<h2><img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="30"> About me</h2>
+
+<p>Jr Fullstack Developer passionate about web development and always curious about the development of artificial intelligence and robotics. Constantly exploring new technologies and embracing challenges, with a strong focus on collaboration, driving my growth and pushing my skills to the next level.</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages-Frameworks-Tools
 
