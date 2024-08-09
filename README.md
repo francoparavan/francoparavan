@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JEST](https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![JEST](https://img.shields.io/badge/JEST-9C4860?style=for-the-badge&logo=jest&logoColor=white)
+
 
 
 
