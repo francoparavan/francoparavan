@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoparavan&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoparavan&layout=compact&theme=dark&hide_border=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francoparavan&show_icons=true&theme=dark&hide_border=true&hide=contribs,prs&custom_title=Franco%20's%20GitHub%20Stats&hide_rank=true&include_all_commits=true)
 
 
