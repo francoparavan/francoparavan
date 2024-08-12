@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2><img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="25"> About me</h2>
 
-<p>Jr Fullstack Developer passionate about web development and always curious about the development of artificial intelligence and robotics. Constantly exploring new technologies and embracing challenges, with a strong focus on collaboration. This commitment drives my growth and hones my skills to the next level.</p>
+<p>I'm a Jr Fullstack Developer passionate about web development and always curious about the development of artificial intelligence and robotics. Constantly exploring new technologies and embracing challenges, with a strong focus on collaboration. This commitment drives my growth and hones my skills to the next level.</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages-Frameworks-Tools
 
