@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, welcome to my github profile</h2>
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
 <!--<img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="25">-->
 <h2>🙋‍♂️ About</h2>
 
