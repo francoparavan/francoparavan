@@ -57,5 +57,4 @@ Here are some ideas to get you started:
 <br>
 
 ## :mailbox: Get in touch
-<a href=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
-<a href=""><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/francoparavan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
