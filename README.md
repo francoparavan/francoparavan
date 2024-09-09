@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--<img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="25">-->
 <h2>🙋‍♂️ About</h2>
 
-<p>I'm a Full Stack Developer passionate about web innovation, crafting web solutions, and always curious about the progression of AI and robotics. Constantly exploring new technologies and embracing challenges, with a strong focus on collaboration. This commitment drives my growth and hones my skills to the next level.</p>
+<p>I'm a Full Stack Developer passionate about web innovation, crafting web solutions, and always curious about the progression of AI and robotics. Constantly exploring new technologies and embracing challenges, with a strong focus on collaboration and hands-on experience.</p>
 
 
 
