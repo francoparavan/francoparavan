@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p>I'm a Full Stack Developer passionate about web innovation, crafting web solutions, and always curious about the progression of AI and robotics. Constantly exploring new technologies and embracing challenges, with a strong focus on collaboration and hands-on experience.</p>
 
-
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages-Frameworks-Tools
 
@@ -44,9 +44,11 @@ Here are some ideas to get you started:
 
 </div>
 
-
+<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Stats
+
+<br>
 
 <div align="center">
   
@@ -56,7 +58,7 @@ Here are some ideas to get you started:
   
 </div>
 
-
+<br>
 
 ## :mailbox: Get in touch
 <a href="https://www.linkedin.com/in/francoparavan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
