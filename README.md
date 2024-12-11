@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![TRELLO](https://img.shields.io/badge/TRELLO-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 </div>
 
