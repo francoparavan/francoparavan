@@ -53,10 +53,15 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoparavan&layout=compact&theme=dark&hide_border=true)
-&nbsp;&nbsp;
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=francoparavan&show_icons=true&theme=dark&hide_border=true&hide=contribs,prs&custom_title=Franco's%20GitHub%20Stats&hide_rank=true&include_all_commits=true)
-  
+<div style="display: flex; flex-direction: column; align-items: center;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=francoparavan&show_icons=true&theme=dark&hide_border=true&card_width=350" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francoparavan&layout=compact&theme=dark&hide_border=true&card_width=350" style="height: 195px;" />
+
+</div>
+
+
 </div>
 
 <br>
