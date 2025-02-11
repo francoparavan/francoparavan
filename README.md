@@ -55,9 +55,9 @@ Here are some ideas to get you started:
   
 <div style="display: flex; flex-direction: column; align-items: center;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=francoparavan&show_icons=true&theme=dark&hide_border=true&card_width=350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=francoparavan&show_icons=true&theme=dark&hide_border=true&card_width=370" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francoparavan&layout=compact&theme=dark&hide_border=true&card_width=350" style="height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francoparavan&layout=compact&theme=dark&hide_border=true" style="height: 195px;" />
 
 </div>
 
