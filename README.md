@@ -1,18 +1,3 @@
-<!--
-**francoparavan/francoparavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
 <!--<img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="25">-->
 <h2>🙋‍♂️ About</h2>
@@ -47,27 +32,5 @@ Here are some ideas to get you started:
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Stats
-
-<br>
-
-<div align="center">
-  
-<div style="display: flex; flex-direction: column; align-items: center;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=francoparavan&show_icons=true&theme=dark&hide_border=true&card_width=370&icon_color=79FF97&ring_color=79FF97" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francoparavan&layout=compact&theme=dark&hide_border=true" style="height: 195px;" />
-
-</div>
-
-
-</div>
-
-<br>
-
 ## :mailbox: Get in touch
 &nbsp; <a href="https://www.linkedin.com/in/francoparavan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:francoparavan@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-
